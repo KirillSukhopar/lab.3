@@ -14,7 +14,3 @@ if __name__ == '__main__':
     print_hi('PyCharm')
 
 # See PyCharm help at https://www.jetbrains.com/help/pycharm/
-rr = 5
-π = 3.14159
-S = π * (rr ** 2)
-print (S)
